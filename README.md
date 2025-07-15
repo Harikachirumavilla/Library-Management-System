@@ -68,9 +68,4 @@ A **web-based Library Management System** designed to streamline library operati
 - Overdue alerts and reminders
 - Fine calculation and payment integration
 
-## 👨‍💻 Developed By
 
-**Layavardhan Reddy**  
-_Java Web Developer | Library Management System Project_
-
----
